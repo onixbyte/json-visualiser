@@ -17,7 +17,7 @@ export default function HeroLayout() {
           <div className="flex justify-between items-center h-16">
             <div className="flex items-center">
               <h1 className="text-xl font-semibold text-gray-900">
-                JSONPath Visualiser
+                JSON Visualiser
               </h1>
             </div>
             <nav className="flex space-x-8">
